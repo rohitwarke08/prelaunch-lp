@@ -1390,7 +1390,7 @@
             </input>
           </div>
           <div>
-            <input class="selectize">
+            <select class="selectize">
               <option data-display="Select">Email</option>
             </select>
           </div>
